@@ -1,4 +1,6 @@
+//program, který dešifruje text pomocí klíče 
 #include<stdio.h>
+
  
 int main()
 {
