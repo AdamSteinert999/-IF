@@ -1,3 +1,4 @@
+//program, který zašifruje slovo pomocí klíče 
 #include<stdio.h>
  
 int main()
